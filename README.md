@@ -9,14 +9,14 @@ Creating a Banking Management System Application for the user who want to utiliz
 
 <h2>Internship Domains </h2>
 
-<p>It is a task based internship . The Task is creating an online banking system that enables users to manage accounts, perform transactions, and view balances.
+<p>It is a task based internship . The Task is creating an online banking system that enables users to manage accounts, perform transactions, and view balances.</p>
 <p>Features:</p>
 <li>Account Management: Allow users to create and manage different types of accounts (savings, checking, etc.).</li>
 <li>Transaction History: Store and display a history of user transactions.</li>
 <li>Funds Transfer: Implement functionality for users to transfer funds between accounts.</li>
 <li>Balance Enquiry: Enable users to view their account balances.</li>
 <li>Security Measures: Implement user authentication, PIN codes, and secure transactions.</li>
-<li>Loan Management: Provide options for users to apply for loans and manage loan payments.</li></p>
+<li>Loan Management: Provide options for users to apply for loans and manage loan payments.</li>
 <ul>
 <li>JAVA</li>
 </ul>
