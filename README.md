@@ -17,7 +17,9 @@ Creating a Banking Management System Application for the user who want to utiliz
 <li>Balance Enquiry: Enable users to view their account balances.</li>
 <li>Security Measures: Implement user authentication, PIN codes, and secure transactions.</li>
 <li>Loan Management: Provide options for users to apply for loans and manage loan payments.</li>
-<ul>
+<ol>
 <li>JAVA</li>
-</ul>
+<li>Object Oriented Programming</li>
+<li>Data Base (MySQL, SQLite)</li>
+</ol>
 #<h1>Video</h1>
